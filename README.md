@@ -2,7 +2,7 @@
 Proof of concept of what a git approach to theology lesson development could look like. 
 
 
-## Leveraging Open Source Concepts to Lesson Development
+## Leveraging Open Source Concepts to Theological Teaching
 
 ### The Problem
 
