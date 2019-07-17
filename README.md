@@ -21,8 +21,13 @@ The Open Source Model of sofware development utilizes a number of technologies. 
 Material released as open source can be used freely by a wide range of users. Coders then see the fruits of their software in new applications, benfiting more users. *Curriculum writers* would know the joy of seeing their material influence a broader circle of people. 
 
 #### Push-Pull Mechanics Create Better Products
-One-to-many influence, many-to-one, many-to-many
+Modern open source development also includes a concept of collaboration that both invites participation while allowing original creators the ability to retain editorial control over their work. Would-be collaborators download a copy (clone) of the "master", and edit the material as desired. When ready, they issue a request to the original creator, who may choose to pull those edits into the master. Over time, this collaboration corrects mistakes in the orginal, or adds helpful features that extend the functionality of the code. 
+
+Imagine how a community of curriculum writers might use such a tool to create highly refined lesson plans and resources! But modern open source development takes this concept even further. 
 
 #### Multiple Branches allow diverse approaches.
+Some collaborators may see in the original work a seed of another project altogether which would accomplish a different set of purposes. The open source model allows for the creation of a new, but related, project—a branch, or fork. 
 
+This opens up immense possibilities for curriculum development. Perhaps a course just needs to go in another direction structurally, as with a course of study that might be differently conceived as a track of 10 lessons instead of 16. Or perhaps it could be translated into a different language to be used by a broader audience, or for a different life-stage group. Or, and this is important for theological studies, *perhaps the collaborator needs to modifiy it because of the theological differences between their community*. In that case, they could create a fork making the changes, and publish it. Users evaluating one project would typically be able to see both versions, weighing which would be better for thie own purposes.
 
+In time, the original creation spawns new editions that are more suitable for other contexts, creating a healthy diversity of materials.
