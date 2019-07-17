@@ -21,7 +21,7 @@ The Open Source Model of sofware development utilizes a number of technologies. 
 Material released as open source can be used freely by a wide range of users. Coders then see the fruits of their software in new applications, benfiting more users. *Curriculum writers* would know the joy of seeing their material influence a broader circle of people. 
 
 #### Push-Pull Mechanics Create Better Products
-Modern open source development also includes a concept of collaboration that both invites participation while allowing original creators the ability to retain editorial control over their work. Would-be collaborators download a copy (clone) of the "master", and edit the material as desired. When ready, they issue a request to the original creator, who may choose to pull those edits into the master. Over time, this collaboration corrects mistakes in the orginal, or adds helpful features that extend the functionality of the code. 
+Modern open source development also includes a concept of collaboration that both invites participation while allowing original creators the ability to retain editorial control over their work. Would-be collaborators download a copy (clone) of the "master", and edit the material as desired. When ready, they issue a request to the original creator, who may choose to pull those edits into the master. In some cases, the community engages the change with a discussion, or a user may suggest an issue that needs attention without proposing the fix themselves. Over time, this collaboration corrects mistakes in the orginal, or adds helpful features that extend the functionality of the code. 
 
 Imagine how a community of curriculum writers might use such a tool to create highly refined lesson plans and resources! But modern open source development takes this concept even further. 
 
@@ -34,4 +34,4 @@ In time, the original creation spawns new editions that are more suitable for ot
 
 ### Beyond
 
-It's not difficult to see many possibilities for using these concepts in the church's life. While I've framed the above in consideration of lesson plans, many other kinds of content could benefit from the same concepts. One can easily imagine a prayerbook created in the same way, or perhaps even whole liturgies. 
+It's not difficult to see many possibilities for using these concepts in the church's life. While I've framed the above in consideration of lesson plans, many other kinds of content could benefit from the same concepts. One can easily imagine a prayerbook created in the same way, prayer exercises for communities, hymns, or perhaps even whole liturgies. 
