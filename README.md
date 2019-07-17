@@ -31,3 +31,7 @@ Some collaborators may see in the original work a seed of another project altoge
 This opens up immense possibilities for curriculum development. Perhaps a course just needs to go in another direction structurally, as with a course of study that might be differently conceived as a track of 10 lessons instead of 16. Or perhaps it could be translated into a different language to be used by a broader audience, or for a different life-stage group. Or, and this is important for theological studies, *perhaps the collaborator needs to modifiy it because of the theological differences between their community*. In that case, they could create a fork making the changes, and publish it. Users evaluating one project would typically be able to see both versions, weighing which would be better for thie own purposes.
 
 In time, the original creation spawns new editions that are more suitable for other contexts, creating a healthy diversity of materials.
+
+### Beyond
+
+It's not difficult to see many possibilities for using these concepts in the church's life. While I've framed the above in consideration of lesson plans, many other kinds of content could benefit from the same concepts. One can easily imagine a prayerbook created in the same way, or perhaps even whole liturgies. 
