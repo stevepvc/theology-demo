@@ -11,6 +11,7 @@ Across the world, the diverse Christian Church passes on its teachings in a mind
 1. The production of material by experts aimed at large sets of churches. And,
 2. The local production of by material by individual churches and teachers. 
 
+Both present advantages and liabilities. The former approach produces better *quality* resources, while the latter produces more diverse 
 
 ### Leveragable Concepts
 
