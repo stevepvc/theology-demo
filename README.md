@@ -35,3 +35,7 @@ In time, the original creation spawns new editions that are more suitable for ot
 ### Beyond
 
 It's not difficult to see many possibilities for using these concepts in the church's life. While I've framed the above in consideration of lesson plans, many other kinds of content could benefit from the same concepts. One can easily imagine a prayerbook created in the same way, prayer exercises for communities, hymns, or perhaps even whole liturgies. 
+
+## A Proposal
+
+Perhaps eventually, an entire platform for such an endeavor might emerge. For now, I suggest that some of those who have created content for teaching in the church consider "open sourcing" some amount of that content here on github. Consider posting a collection of files, and inviting colleagues to collaborate with you. Perhaps such experimentation can help us move forward into a new creative moment for the church's thinking.  
